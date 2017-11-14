@@ -1,4 +1,16 @@
 body {
+  color: white;
+  height: -webkit-fill-available;
   background: linear-gradient(45deg, red, blue);
+  background-repeat: no-repeat;
   text-align: center;
+}
+h1 {
+  font-size: 5rem;
+}
+h2 {
+  font-size: 3rem;
+}
+p {
+  font-size: 2rem;
 }
